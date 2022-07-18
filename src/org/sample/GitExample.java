@@ -7,6 +7,14 @@ public class GitExample {
 			System.out.println("Example123");
 		}
 		
+		private void example24() {
+			System.out.println("example khqjnjuhoiweh");
+		}
+		
+		private void exampl() {
+		System.out.println("ranjkbuhhf;");
+
+		}
 		
 	}
 
