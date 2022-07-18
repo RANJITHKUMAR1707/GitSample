@@ -11,6 +11,10 @@ public class GitExample {
 			System.out.println("example khqjnjuhoiweh");
 		}
 		
+		private void exampl() {
+		System.out.println("ranjkbuhhf;");
+
+		}
 		
 	}
 
