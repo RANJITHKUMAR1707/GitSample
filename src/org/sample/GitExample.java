@@ -8,7 +8,7 @@ public class GitExample {
 		}
 		
 		private void example24() {
-			System.out.println("example khquhoiweh");
+			System.out.println("example khqjnjuhoiweh");
 		}
 		
 		
